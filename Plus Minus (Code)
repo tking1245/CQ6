@@ -18,3 +18,7 @@ int size = arr.size();
     System.out.println(mid/size);
     }
 }
+
+
+The Time complexity of this program woould be "O(n)".
+The space complexity of this program would be "O(n)"
